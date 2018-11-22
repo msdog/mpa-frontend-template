@@ -18,7 +18,7 @@ For questions, bugs and enhancements use [issues](https://github.com/evgen3/mpa-
 ## Start
 1. Clone or [download](https://github.com/evgen3/mpa-frontend-template/archive/master.zip) project:
     ```
-    git clone git@github.com:evgen3/mpa-frontend-template.git your-project-name
+    git clone git@github.com:msdog/mpa-frontend-template.git your-project-name
     ```
 1. Enter in project folder and remove .git folder:
     ```
